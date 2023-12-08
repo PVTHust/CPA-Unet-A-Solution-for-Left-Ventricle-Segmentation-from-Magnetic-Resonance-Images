@@ -11,8 +11,8 @@ Our paper using two datasets:
 - Sunny Brook Dataset: 70% for training, 15 % for validation and 15% for testing [Link data](https://drive.google.com/drive/folders/19xB8LmzUMkLH3dfPtgedafNxVSEFI44w?usp=sharing)
 
 _All images in experiments resized to 256x256_
-## Citations
-
+## Citation
+```
 @inproceedings{vu2023cpa,
   title={CPA-Unet: A Solution for Left Ventricle Segmentation from Magnetic Resonance Images},
   author={Vu, Ngoc-Tu and Pham, Viet-Tien and Pham, Van-Truong and Tran, Thi-Thao},
@@ -21,4 +21,6 @@ _All images in experiments resized to 256x256_
   year={2023},
   organization={IEEE}
 }
+```
+
 
